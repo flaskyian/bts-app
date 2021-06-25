@@ -1,0 +1,9 @@
+# standard
+*.sqlite3
+__pycache__
+*.pyc
+venv
+
+# specific to this project
+env.bat
+.env
